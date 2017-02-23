@@ -1,7 +1,7 @@
 package npi.test.address;
 
 public class AddressModel {
-
+//ком
 private String city;
 private String street;
 private String postCode;
